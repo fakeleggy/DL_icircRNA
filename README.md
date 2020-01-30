@@ -1,4 +1,4 @@
-# DL_icricRNA
+# DL_icircRNA
 This is a course project of CSE 514A in WashU, collaborated with Jiarui Feng, Kexin Zheng and Qianyi Che.
 
 ## SpliceAI code for course data<br>
