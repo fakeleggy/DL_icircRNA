@@ -1,5 +1,5 @@
 # DL_icricRNA
-This is a course project of CSE 514A in WashU, collaborated with Jiarui Feng and Qianyi Che.
+This is a course project of CSE 514A in WashU, collaborated with Jiarui Feng, Kexin Zheng and Qianyi Che.
 
 ## SpliceAI code for course data<br>
 1.Download SpliceAI_prostate file<br>
